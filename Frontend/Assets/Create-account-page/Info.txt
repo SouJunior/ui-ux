@@ -1,0 +1,22 @@
+
+Os circulos traçados podem ser reproduzidos ultilizando CSS.
+
+.{
+
+...
+border: 13px dashed rgba(0, 0, 0, 0.02);
+}
+
+
+Caso não seja efetuado a criação do elemento com fidelidade, comunicar a equipe de UX/UI
+
+-----------------------------------------------------------------------
+
+Para o Plano de fundo/Background, Ultilize o seguinte gradiente :
+
+{
+...
+background: linear-gradient(294.77deg, #0A67C7 50.32%, rgba(0, 114, 231, 0.67) 100%);
+}
+
+(c) SouJunior 2022
